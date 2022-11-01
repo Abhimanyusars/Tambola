@@ -1,0 +1,43 @@
+
+  
+  .SelectedCell {
+    padding: 7px;
+    font-size: 2em;
+    background-color: #ea7987;
+    vertical-align: middle;
+    align-items: center;
+  }
+  
+  .UnselectedCell {
+    padding: 7px;
+    font-size: 2em;
+    background-color: #ffff;
+    vertical-align: middle;
+    align-items: center;
+  }
+  
+  .GenerateButton {
+    background-color: #4caf50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 3em;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  .NextSelectedValue {
+    font-size: 3em;
+  }
+  
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
